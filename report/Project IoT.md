@@ -73,7 +73,7 @@ If using VSCode as I did, it is highly recommended to use the PyMakr plugin, whi
 
 How is all the electronics connected? Describe all the wiring, good if you can show a circuit diagram. Be specific on how to connect everything, and what to think of in terms of resistors, current and voltage. Is this only for a development setup or could it be used in production?
 
-![Picture](./NetworkArch.png "Image")
+![Picture](https://github.com/miwink/iot/blob/master/report/NetworkArch.png "Network Architecture")
 
 - [ ] Circuit diagram (can be hand drawn)
 - [ ] \*Electrical calculations
